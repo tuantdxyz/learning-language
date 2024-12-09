@@ -16,10 +16,10 @@ def fetch_random_records():
     connection = None  # Khởi tạo biến connection
     try:
         connection = mariadb.connect(
-            host='10.63.163.172',
-            user='tuantd',
-            password='admin123',
-            database='test_db2',
+            host='xx',
+            user='xx',
+            password='xx',
+            database='xx',
             port=3306
         )
         print("Kết nối đến cơ sở dữ liệu thành công.")

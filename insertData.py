@@ -5,10 +5,10 @@ def insert_data_from_file(file_path):
     try:
         # Kết nối đến cơ sở dữ liệu
         connection = mariadb.connect(
-            host='10.63.163.172',
-            user='tuantd',
-            password='admin123',
-            database='test_db2',
+            host='xx',
+            user='xx',
+            password='xx',
+            database='xx',
             port=3306
         )
         cursor = connection.cursor()
