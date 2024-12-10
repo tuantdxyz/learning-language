@@ -11,3 +11,12 @@
 - py .\learnEn.py
 - ..
 - deactivate
+
+# run
+1. with os
+- chmod +x script.sh
+- ./script.sh
+
+2. with win
+- python3 get-pip.py --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org
+- ./run_app.bat
