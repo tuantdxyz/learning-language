@@ -1,0 +1,14 @@
+"Good morning, how are you today?"
+(Chào buổi sáng, bạn có khỏe không?)
+
+"I'm running a bit late, but I'll be there soon."
+(Tôi hơi muộn một chút, nhưng sẽ đến sớm thôi.)
+
+"What are your plans for the weekend?"
+(Bạn có kế hoạch gì cho cuối tuần không?)
+
+"Thank you for your help, I really appreciate it."
+(Cảm ơn bạn vì sự giúp đỡ, tôi rất đánh giá điều đó.)
+
+Could you pass me a tissue, please?
+(Bạn có thể pass cho tôi một tờ giấy, vui lòng không?)
