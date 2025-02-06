@@ -7,6 +7,7 @@ Can I get a large coffee, please?" - "Tôi có thể đặt một cốc cà phê
 "I'll be a few minutes late for our meeting." - "Tôi sẽ muộn vài phút cho cuộc họp của chúng ta."
 "Sorry, I didn't catch that. Could you repeat it, please?" - "Xin lỗi, tôi không nghe rõ. Bạn có thể lặp lại được không?"
 "Do you have any recommendations for a good restaurant around here?" - "Bạn có gợi ý về một nhà hàng ngon xung quanh đây không?"
-"I'm looking forward to our upcoming project. Let's discuss it further tomorrow." - "Tôi rất mong chờ dự án sắp tới của chúng ta. Chúng ta hãy thảo luận thêm vào ngày mai."
+"I'm looking forward to our upcoming project" - "Tôi rất mong chờ dự án sắp tới của chúng ta.
+Let's discuss it further tomorrow. - "Chúng ta hãy thảo luận thêm vào ngày mai."
 "Could you please help me with this?" - "Bạn có thể giúp tôi với việc này được không?"
 "What are your plans for the weekend?" - "Bạn có kế hoạch gì cho cuối tuần không?"
