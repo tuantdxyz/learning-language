@@ -1,0 +1,17 @@
+Do you work or study? - Bạn đi làm hay đi học?
+• I work as a backend developer. - Mình làm việc với vai trò lập trình viên backend.
+• I graduated from university a few years ago. - Mình đã tốt nghiệp đại học vài năm trước.
+What is your position at work? - Vị trí công việc của bạn là gì?
+• I am a Java backend developer. - Mình là lập trình viên Java backend.
+• I work on maintaining and optimizing backend systems. - Mình chịu trách nhiệm bảo trì và tối ưu hệ thống BE
+Why did you choose that type of work? - Tại sao bạn chọn công việc này?
+• I enjoy solving complex technical problems. - Mình thích giải quyết các vấn đề kỹ thuật phức tạp.
+Do you enjoy your job? - Bạn có thích công việc của mình không?
+• Yes, I like building scalable systems. - Có, mình thích xây dựng hệ thống có thể mở rộng.
+• It’s challenging but rewarding. - Công việc khá thử thách nhưng cũng rất thú vị.
+What do you dislike about your job? - Bạn không thích điều gì ở công việc của mình?
+Sometimes, debugging issues takes a long time. - Đôi khi, việc gỡ lỗi mất rất nhiều thời gian.
+What do you do after work? - Bạn thường làm gì sau giờ làm?
+• I watch movies or play games. - Mình xem phim hoặc chơi game.
+Is there another type of work you like to do? - Có công việc nào khác mà bạn muốn làm không?
+• Maybe I will start my own tech business one day. - Có thể một ngày nào đó mình sẽ tự mở cty CNTT
