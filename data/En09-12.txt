@@ -1,14 +1,11 @@
-"Good morning, how are you today?"
-(Chào buổi sáng, bạn có khỏe không?)
+Good morning, how are you today? - Chào buổi sáng, bạn có khỏe không?
 
-"I'm running a bit late, but I'll be there soon."
-(Tôi hơi muộn một chút, nhưng sẽ đến sớm thôi.)
+I'm running a bit late, but I'll be there soon. - Tôi hơi muộn một chút, nhưng sẽ đến sớm thôi.
 
-"What are your plans for the weekend?"
-(Bạn có kế hoạch gì cho cuối tuần không?)
+What are your plans for the weekend? - Bạn có kế hoạch gì cho cuối tuần không?
 
-"Thank you for your help, I really appreciate it."
-(Cảm ơn bạn vì sự giúp đỡ, tôi rất đánh giá điều đó.)
+Let’s schedule a meeting. - Chúng ta hãy đặt một cuộc họp.
 
-Could you pass me a tissue, please?
-(Bạn có thể pass cho tôi một tờ giấy, vui lòng không?)
+I’ll take care of that task. - Tôi sẽ lo liệu nhiệm vụ đó. 
+
+Let’s touch base next week. - Chúng ta hãy gặp lại vào tuần tới.

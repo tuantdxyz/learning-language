@@ -52,13 +52,20 @@ def fetch_random_records():
     random_records = random.sample(all_records, 2)  # Lấy ngẫu nhiên 2 bản ghi từ danh sách
 
     for record in random_records:
-        title, message = record.strip().split(' - ')
-        send_notification(title, message)
-        time.sleep(5)  # Chờ 5 giây
+        record = record.strip()
+        if ' - ' in record:
+            try:
+                title, message = record.split(' - ', 1)
+                send_notification(title.strip(), message.strip())
+                time.sleep(5)  # Delay giữa các thông báo
+            except Exception as e:
+                print(f'Lỗi xử lý dòng: {record} - {e}')
+        else:
+            print(f'Bỏ qua dòng không hợp lệ: {record}')
 
-    now = time.strftime('%Y-%m-%d %H:%M:%S')  # Cập nhật biến now
     next_notify_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time() + interval)) 
     print(f'[{now}] Chờ đến lần hiển thị tiếp theo vào {next_notify_time}')
+
 
     # Loại bỏ các bản ghi đã được chọn khỏi danh sách all_records
     all_records = [record for record in all_records if record not in random_records]
