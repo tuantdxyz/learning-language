@@ -7,6 +7,8 @@ echo "Wellcome.."
 source ./venv/bin/activate
 
 # Cài đặt các thư viện từ requirements.txt nếu cần
+# venv/bin/activate
+# pip freeze > requirements.txt
 pip install -r requirements.txt
 
 # Chạy script Python
